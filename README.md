@@ -7,3 +7,5 @@ You can find examples and general explanations about :
   * different tasks with stable diffusions (text2img,img2img etc.)
   * using different parameters of stable diffusion models
   * using different adapters with stable diffusion models (LoRA, PEFT, etc.)
+  * combination use of SAM,DINO and Stable Diffusion
+    
